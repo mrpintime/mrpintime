@@ -1,13 +1,29 @@
-![Surgon]()
+![Surgon](https://github.com/mrpintime/mrpintime/blob/main/Quantum.jpg)
+
 
 ### Hi everyone! 👋
 
-My name is Moein, I was a python developer for over 3 years and currently i am working as a Data Science. I am passionate about machine learning and data-driven technologies. In my spare time you will probably find me doing sports or building fun (and partially useless) software programs.
+My name is Moein, I was a python developer for over 3 years and currently i am working as a Data Science. I am passionate about machine learning and data-driven technologies. In my spare time you will probably find me doing sports or building fun (and partially useless) software programs.  
+I am currently live in Italy 🇮🇹, a country for singers 🎤 🪗 ,dancers 🕺💃 ,lovers 💌 👩‍❤️‍💋👨 ,food lovers 🍕.
 
-<!--- <p align="center">
-  <a href="https://www.instagram.com/ai.coding/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-  <a href="https://twitter.com/aicoding_"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-  <a href="https://www.youtube.com/channel/UC8FB3UGeHITLOoxb_1F085Q?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
-</p> -->
+### Picture Description
+
+This picicture is quantum wave so:
+
+Quantum wave refers to the mathematical description of the behavior of tiny particles, such as electrons and photons, in the quantum world.
+
+In classical physics, particles have definite positions and velocities at any given moment in time. However, in the quantum world, particles can exist in multiple states or positions at the same time, a phenomenon called superposition.
+
+Quantum waves are used to describe the probability of finding a particle in a certain state or position. These waves have properties such as wavelength and frequency, which determine the probability distribution of where the particle may be found.
+
+When a measurement is made, the wave function collapses, and the particle's state becomes definite. Until then, the particle exists in all possible states simultaneously, described by the quantum wave.
+
+In short, quantum wave describes the probability of finding a particle in different states, and it is a crucial concept in the field of quantum mechanics.
+
+For more details i put two resources here, one for general and second for a little bit professional 😃:  
+General 🏖️:![Wikipedia](https://en.wikipedia.org/wiki/Wave_function)  
+A little bit above 😵‍💫: ![Virginia_University](https://galileo.phys.virginia.edu/classes/751.mf1i.fall02/751WaveEquations.htm)  
+
+### Contact
 
 💪🏼 Contact me through my Linkedin: https://www.linkedin.com/in/moein-zeidanlou 💪🏼
