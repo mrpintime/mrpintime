@@ -4,7 +4,7 @@
 ### Hi everyone! 👋
 
 My name is Moein, I was a python developer for over 3 years and currently i am working as a Data Scientist. I am passionate about machine learning and data-driven technologies. In my spare time you will probably find me doing sports or building fun (and partially useless) software programs.  
-I am currently live in Italy 🇮🇹, a country for singers 🎤 🪗 ,dancers 🕺💃 ,lovers 💌 👩‍❤️‍💋👨 ,food lovers 🍕.
+I am currently live in Italy 🇮🇹, a country for singers 🎤 🪗 ,dancers 🕺💃 ,lovers 💌 👩‍❤️‍💋👨 ,food lovers 🍕 and etc.
 
 ### Picture Description
 
