@@ -1,4 +1,4 @@
-![AICoding](https://github.com/coding-ai/coding-ai/blob/master/IMG_4545.JPG)
+![Surgon]()
 
 ### Hi everyone! 👋
 
