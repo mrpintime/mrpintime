@@ -10,4 +10,4 @@ My name is Moein, I was a python developer for over 3 years and currently i am w
   <a href="https://www.youtube.com/channel/UC8FB3UGeHITLOoxb_1F085Q?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
 </p> -->
 
-💪🏼 Contact me through my Linkedin: https://www.linkedin/in/moein-zeidanlou💪🏼
+💪🏼 Contact me through my Linkedin: https://www.linkedin.com/in/moein-zeidanlou 💪🏼
