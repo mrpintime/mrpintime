@@ -8,7 +8,7 @@ I am currently live in Italy 🇮🇹, a country for singers 🎤 🪗 ,dancers 
 
 ### Picture Description
 
-This picture is quantum wave so:
+This picture is showing quantum wave, so what is the quantum wave 🤔:
 
 Quantum wave refers to the mathematical description of the behavior of tiny particles, such as electrons and photons, in the quantum world.
 
