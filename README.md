@@ -24,6 +24,10 @@ For more details i put two resources here, one for general and second for a litt
 General 🏖️: ![Wikipedia](https://en.wikipedia.org/wiki/Wave_function)  
 A little bit above 😵‍💫: ![Virginia_University](https://galileo.phys.virginia.edu/classes/751.mf1i.fall02/751WaveEquations.htm)  
 
+### Portfolio  
+
+🌒 View my portfolio via my Portfolio Website: https://mrpintime.github.io 🦉 🥰 💪  
+
 ### Contact
 
 💪🏼 Contact me through my Linkedin: https://www.linkedin.com/in/moein-zeidanlou 💪🏼
