@@ -21,8 +21,8 @@ When a measurement is made, the wave function collapses, and the particle's stat
 In short, quantum wave describes the probability of finding a particle in different states, and it is a crucial concept in the field of quantum mechanics.
 
 For more details i put two resources here, one for general and second for a little bit professional 😃:  
-General 🏖️: ![Wikipedia](https://en.wikipedia.org/wiki/Wave_function)  
-A little bit above 😵‍💫: ![Virginia_University](https://galileo.phys.virginia.edu/classes/751.mf1i.fall02/751WaveEquations.htm)  
+General 🏖️: [Wikipedia](https://en.wikipedia.org/wiki/Wave_function)  
+A little bit above 😵‍💫: [Virginia_University](https://galileo.phys.virginia.edu/classes/751.mf1i.fall02/751WaveEquations.htm)  
 
 ### Portfolio  
 
