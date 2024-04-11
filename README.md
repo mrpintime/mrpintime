@@ -26,8 +26,8 @@ A little bit above 😵‍💫: [Virginia_University](https://galileo.phys.virgi
 
 ### Portfolio  
 
-🌒 View my portfolio via my Portfolio Website: https://mrpintime.github.io 🦉 🥰 💪  
+🌒 View my portfolio via my Portfolio Website: [moeinz.pro](https://www.moeinz.pro/) 🦉 🥰 💪  
 
 ### Contact
 
-💪🏼 Contact me through my Linkedin: https://www.linkedin.com/in/moein-zeidanlou 💪🏼
+💪🏼 Contact me through my Linkedin: [@moein-zeidanlou](https://www.linkedin.com/in/moein-zeidanlou) 💪🏼
